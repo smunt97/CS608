@@ -7,3 +7,5 @@ Sorting Algorithms
 # Team Members:
  1. Sidratul Muntaha
  2. Arpit Shah
+ 3. Steve St Fleur
+ 4. Afrida Mehanaz Shaik
