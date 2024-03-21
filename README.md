@@ -6,4 +6,4 @@ Sorting Algorithms
 
 # Team Members:
  1. Sidratul Muntaha
- 2. 
+ 2. Arpit Shah
