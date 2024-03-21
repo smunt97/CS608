@@ -5,4 +5,5 @@ Sorting Algorithms
   - Insertion Sort
 
 # Team Members:
- 1.
+ 1. Sidratul Muntaha
+ 2. 
