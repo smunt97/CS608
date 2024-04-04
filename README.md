@@ -9,3 +9,4 @@ Sorting Algorithms
  2. Arpit Shah
  3. Steve St Fleur
  4. Afrida Mehanaz Shaik
+ 5. Nidheesha Rudraraju
